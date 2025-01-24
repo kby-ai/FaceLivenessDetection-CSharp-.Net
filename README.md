@@ -17,7 +17,7 @@
 # FaceLivenessDetection-C#
 
 ## Overview
-This repo is the `Face Liveness Detection` Python project for `Windows C#`.
+This repo is the `Face Liveness Detection` project for `Windows C#`.
 
 > In this repo, we integrated `KBY-AI`'s `Face Liveness Detection` solution into `Windows Server SDK`.<br/>
 > We can customize the SDK to align with your specific requirements.
@@ -156,5 +156,5 @@ This project uses `KBY-AI`'s `Face Liveness Detection Server SDK`, which require
     The function returns the count of the detected face.
 
 ### 4. Thresholds
-  The default liveness threshold is 0.6.
+  The default liveness threshold is `0.6`.
 
